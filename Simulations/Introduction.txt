@@ -1,0 +1,3 @@
+In this paste they are some codes, you can use to simulate a impedance spectroscopy to some eletronic circuits.
+
+Nessa pasta existem simulacoes, que podem ser utilizadas para o calculo da espectrocopia de impedancia em alguns circuitos eletronicos.
